@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 kkkaa
+=======
+kkkgg
+>>>>>>> origin/master
